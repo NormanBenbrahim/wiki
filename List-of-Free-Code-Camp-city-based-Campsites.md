@@ -524,6 +524,8 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
   - [Perlis](https://www.facebook.com/groups/free.code.camp.perlis.malaysia)
 - Maldives
   - [Male](https://www.facebook.com/groups/freecodemv/)
+- Mauritius
+  - [Port Louis](https://www.facebook.com/groups/free.code.camp.port.louis/)
 - Mexico
   - [Acapulco](https://www.facebook.com/groups/free.code.camp.acapulco/) 
   - [Ciudad Juárez](https://www.facebook.com/groups/free.code.camp.juarezchi/)
