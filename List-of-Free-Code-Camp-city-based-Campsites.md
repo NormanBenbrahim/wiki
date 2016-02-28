@@ -1222,6 +1222,7 @@ If your city isn't listed here, you should [[create a Campsite for your city|How
     - [Norfolk](https://www.facebook.com/groups/free.code.camp.norfolk)
     - [Petersburg](https://www.facebook.com/groups/free.code.camp.petersburg.va/)
     - [Richmond](https://www.facebook.com/groups/free.code.camp.richmond.va/)
+    - [Roanoke](https://www.facebook.com/groups/free.code.camp.roanoke.va/)
     - [Virginia Beach](https://www.facebook.com/groups/free.code.camp.virginia.beach/)
   - Washington
     - [Anacortes](https://www.facebook.com/groups/free.code.camp.anacortes/)
